@@ -44,11 +44,11 @@ function getOptions()
         title: '2009-2013 UCSF Income Profit',
         chartArea: {width: '50%'},
         hAxis: {
-          title: 'Year',
+          title: 'Income',
           minValue: 0
         },
         vAxis: {
-          title: 'Income'
+          title: 'Year'
         }
       };
 
